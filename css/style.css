@@ -104,10 +104,9 @@ footer{
 
 /*Your Code Here*/
 /* PLEASE DO NOT REMOVE MY COMMENTS.  THEY HELP US HELP YOU DEBUG. */
-@viewport {
-  width: device-width;
-  zoom: 1;
+/* @media screen and (max-width: 768px) {
 }
+
 /* Step 1: Write selector/rule property to add an underline when
 links in the navigation are in the hover or focus state.*/
 nav ul li a:hover, nav ul li a:focus {
@@ -204,14 +203,6 @@ first div in the grid  and place it in the grid. */
   align-items: center;
   justify-content: center;
   text-align: center;
-  height: 100%;
-}
-
-.text-block h2 {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
 }
 
 /* Add your media query here */
