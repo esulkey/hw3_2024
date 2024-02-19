@@ -139,9 +139,6 @@ nav ul li a:hover, nav ul li a:focus {
   gap: 15px;
   align-items: center;
 }
-.container p {
-  padding: 0px;
-}
 
 /* Step 5: Write selector/rule property to add the background image to the 
 first div in the grid  and place it in the grid. */
